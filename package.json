@@ -1,0 +1,23 @@
+{
+  "name": "0xstan-utils",
+  "version": "1.0.0",
+  "author": "stan",
+  "description": "common toolkit",
+  "keywords": ["utils", "format", "money", "phone"],
+  "repository": {
+    
+    "type": "git",
+    "url": "https://github.com/0xx92/0xstan-utils"
+  },
+  "license": "ISC",
+  "homepage": "https://your-package.org",
+  "bugs": "https://github.com/0xx92/0xstan-utils/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
